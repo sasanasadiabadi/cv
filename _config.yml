@@ -6,7 +6,7 @@ repository: sasanasadiabadi.github.io/cv
 version: 2
 
 # Personal info
-name: Sasan Asadiabadi
+name: Sasan Asadiabadi, Ph.D.
 title: Postdoctoral Researcher 
 email: sabadi15@ku.edu.tr
 # email_title: Email (Email title override)
@@ -86,7 +86,7 @@ content:
     content:
       - layout: left
         border: weak 
-        title: Wageningen University and Research
+        title: Wageningen University & Research, The Netherlands
         sub_title: Postdoctoral Researcher
         caption: Feb 2021 - present
        # link: Link to company (optional)
@@ -96,7 +96,7 @@ content:
           Description of role
       - layout: left
         border: weak 
-        title: RaSpect Intelligence Inspection Limited
+        title: RaSpect Intelligence Inspection Limited, Hong  Kong
         sub_title: Senior AI Research Engineer
         caption: May 2018 - Feb 2021
        # link: Link to company (optional)
@@ -106,7 +106,7 @@ content:
           Description of role
       - layout: left
         border: weak 
-        title: CY Vision
+        title: CY Vision, Turkey
         sub_title: Computer Vision Engineer
         caption: Jul 2019 - Jan 2021
        # link: Link to company (optional)
@@ -116,7 +116,7 @@ content:
           Description of role
       - layout: left
         border: weak 
-        title: Eyris Technologies
+        title: Eyris Technologies, California
         sub_title: Deep Learning Consultant
         caption: Jan 2020 - Feb 2021
        # link: Link to company (optional)
@@ -126,7 +126,7 @@ content:
           Description of role
       - layout: left
         border: weak 
-        title: Koç University
+        title: Koç University, Turkey
         sub_title: Instructor
         caption: Feb 2020 - Jun 2020
        # link: Link to company (optional)
@@ -136,7 +136,7 @@ content:
           Description of role
       - layout: left
         border: weak 
-        title: Koç University
+        title: Koç University, Turkey
         sub_title: Teaching and Research Assistant
         caption: Feb 2015 - Feb 2020
        # link: Link to company (optional)
@@ -147,14 +147,33 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        border: weak 
+        title: Koç University, Turkey
+        sub_title: Ph.D.in Electrical Engineering
+        caption: Jan 2017 - Jan 2021
+        #quote: >
+          Under supervision of Prof. Engin Erzin.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Thesis title: Deep Learning Approaches for Vocal Tract Boundary Segmentation in rtMRI,
+      - layout: left
+        border: weak 
+        title: Koç University, Turkey
+        sub_title: M.Sc. in Electrical Engineering
+        caption: Feb 2015 - Jan 2017
+        quote: >
+          Under supervision of Prof. Engin Erzin.
+        description: | # this will include new lines to allow paragraphs
+          Thesis title: Vocal Tract Contour Tracking for real-time Speech MRI Using a Shape Model Prior.
+      - layout: left
+        border: weak 
+        title: Sharif University of Technology, Iran
+        sub_title: B.Sc. in Electrical Engineering
+        caption: Sep 2009 - Dec 2014
+        #quote: >
+        #  Under supervision of Prof. Engin Erzin.
+        description: | # this will include new lines to allow paragraphs
+          Project title: Voice Activity Detection for Squelch Systems in Noisy Environment.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

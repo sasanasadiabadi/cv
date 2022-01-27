@@ -152,7 +152,7 @@ content:
         title: Koç University, Turkey
         sub_title: Ph.D.in Electrical Engineering
         caption: Jan 2017 - Jan 2021
-        #quote: >
+        quote: >
           Under supervision of Prof. Engin Erzin.
         description: | # this will include new lines to allow paragraphs
           Thesis title: Deep Learning Approaches for Vocal Tract Boundary Segmentation in rtMRI,

@@ -31,7 +31,7 @@ linkedin_username: sasan-asadiabadi-1211678a
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #orcid_username: 0000-0000-0000-0000
-#googlescholar_username: citations?user=Z27B5dYAAAAJ&hl=en
+googlescholar_username: citations?user=Z27B5dYAAAAJ&hl=en
 
 # Additional icon links
 additional_links:
@@ -84,11 +84,62 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        border: weak 
+        title: Wageningen University and Research
+        sub_title: Postdoctoral Researcher
+        caption: Feb 2021 - present
+       # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: left
+        border: weak 
+        title: RaSpect Intelligence Inspection Limited
+        sub_title: Senior AI Research Engineer
+        caption: May 2018 - Feb 2021
+       # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: left
+        border: weak 
+        title: CY Vision
+        sub_title: Computer Vision Engineer
+        caption: Jul 2019 - Jan 2021
+       # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: left
+        border: weak 
+        title: Eyris Technologies
+        sub_title: Deep Learning Consultant
+        caption: Jan 2020 - Feb 2021
+       # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: left
+        border: weak 
+        title: Koç University
+        sub_title: Instructor
+        caption: Feb 2020 - Jun 2020
+       # link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: left
+        border: weak 
+        title: Koç University
+        sub_title: Teaching and Research Assistant
+        caption: Feb 2015 - Feb 2020
+       # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs

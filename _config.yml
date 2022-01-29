@@ -89,19 +89,20 @@ content:
         title: Wageningen University & Research, The Netherlands
         sub_title: Postdoctoral Researcher
         caption: Feb 2021 - present
-       # link: Link to company (optional)
+        link: https://www.wur.nl/en.htm
         quote: >
-          Short description of the company (optional)
+          Conducting research project  under the [4TU. Precision Medicine](https://www.4tu.nl/precision-medicine/).
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I conduct my postdoctoral research as a member of Laboratory of Biophysics ([BIP](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Biophysics.htm)) at WUR.
+          My research mainly focuses on applications of deep learning in analysis of quantitative MRI. I implement neural networks for spatio-temporal modeling of 3D MRI data and unsupervised clustering of biological tissues.
       - layout: left
         border: weak 
         title: RaSpect Intelligence Inspection Limited, Hong  Kong
         sub_title: Senior AI Research Engineer
         caption: May 2018 - Feb 2021
-       # link: Link to company (optional)
+        link: https://raspect.ai/en
         quote: >
-          Short description of the company (optional)
+          Responsible for development of intelligent inspection systems for safer cities.
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: left
@@ -109,17 +110,18 @@ content:
         title: CY Vision, Turkey
         sub_title: Computer Vision Engineer
         caption: Jul 2019 - Jan 2021
-       # link: Link to company (optional)
+        link: https://www.cyvision.com/
         quote: >
-          Short description of the company (optional)
+          Responsible for development of real-time driver monitoring system
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          In my role as a computer vision engineer at CY Vision, I developed efficient light-weight neural networks for tracking driver's facial landmarks and pupils 
+          from a stero-vision camera behind the steering wheel, robust to occlusion and different lighting conditions. 
       - layout: left
         border: weak 
         title: Eyris Technologies, California
         sub_title: Deep Learning Consultant
         caption: Jan 2020 - Feb 2021
-       # link: Link to company (optional)
+        link: https://www.eyeris.ai/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs

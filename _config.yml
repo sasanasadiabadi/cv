@@ -52,14 +52,11 @@ google_analytics: "UA-00000000-0"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a computer vision and deep learning enginner enthusiastic about vastly growing industrial applications of AI. 
+  I'm passionate about solving real world problems with a strong research background in industry and academy. Having experienced working with people from around the world
+  in various teams and under different industry systems.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
+  My work and research focuses on ...
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -67,20 +64,21 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: rtMRI-VTAT
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: https://github.com/sasanasadiabadi/rtMRI-VTAT
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/sasanasadiabadi/rtMRI-VTAT
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fab fa-github
+          #  url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          rtMRI-VTAT is a Python-based GUI and a vocal tract analysis tool for rtMRI datasets.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          My Ph.D research was centered around extracting the shape of the vocal tract in real-time MRI videos and analysing how speech articulators change over time as we utter a sentence.
+          VTAT is a GUI-based vocal tract analysis tool, which aims to help the researchers to track vocal tract contours in MRI videos and study the fundementals of human speech production.  
   - title: Experience
     layout: list
     content:
@@ -104,7 +102,8 @@ content:
         quote: >
           Responsible for development of intelligent inspection systems for safer cities.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          At RaSpect, I did research and development of deep learning algorithms centered around the element and defect detection in architecture. I gained a lot of experience
+          with performance analysis, optimization and benchmark evaluation of several deep learning based object detection networks.
       - layout: left
         border: weak 
         title: CY Vision, Turkey
@@ -112,10 +111,11 @@ content:
         caption: Jul 2019 - Jan 2021
         link: https://www.cyvision.com/
         quote: >
-          Responsible for development of real-time driver monitoring system
+          Responsible for development of real-time driver monitoring system.
         description: | # this will include new lines to allow paragraphs
-          In my role as a computer vision engineer at CY Vision, I developed efficient light-weight neural networks for tracking driver's facial landmarks and pupils 
-          from a stero-vision camera behind the steering wheel, robust to occlusion and different lighting conditions. 
+          In my role as a computer vision engineer at CY Vision, I did extensive research on deep learning on edge. I developed efficient light-weight neural networks for tracking driver's facial landmarks and pupils 
+          from a stero-vision camera behind the steering wheel, robust to occlusion and different lighting conditions. I worked on quantizing and deploying the deep learning models
+          on edge devices like ARM CPUs with C++.
       - layout: left
         border: weak 
         title: Eyris Technologies, California
@@ -123,7 +123,7 @@ content:
         caption: Jan 2020 - Feb 2021
         link: https://www.eyeris.ai/
         quote: >
-          Short description of the company (optional)
+          In-cabin driver 3D gaze estimation system using monocular vision.
         description: | # this will include new lines to allow paragraphs
           Description of role
       - layout: left

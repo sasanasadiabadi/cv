@@ -56,7 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
   I'm passionate about solving real world problems with a strong research background in industry and academy. Having experienced working with people from around the world
   in various teams and under different industry systems.
 
-  My work and research focuses on ...
+  My work and research focuses on **spatio-temporal medical image analysis, multimodal signal processing and deep learning on edge**. I'm mostly intrested in optimizing 
+  deep neural networks for real-time intelligent data-driven systems. 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -65,7 +66,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: rtMRI-VTAT
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/sasanasadiabadi/rtMRI-VTAT
         link_text: https://github.com/sasanasadiabadi/rtMRI-VTAT
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -89,7 +90,7 @@ content:
         caption: Feb 2021 - present
         link: https://www.wur.nl/en.htm
         quote: >
-          Conducting research project  under the [4TU. Precision Medicine](https://www.4tu.nl/precision-medicine/).
+          Conducting research project  under the [4TU Precision Medicine](https://www.4tu.nl/precision-medicine/).
         description: | # this will include new lines to allow paragraphs
           I conduct my postdoctoral research as a member of Laboratory of Biophysics ([BIP](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Biophysics.htm)) at WUR.
           My research mainly focuses on applications of deep learning in analysis of quantitative MRI. I implement neural networks for spatio-temporal modeling of 3D MRI data and unsupervised clustering of biological tissues.
@@ -119,7 +120,7 @@ content:
       - layout: left
         border: weak 
         title: Eyris Technologies, California
-        sub_title: Deep Learning Consultant
+        sub_title: Deep Learning Engineer
         caption: Jan 2020 - Feb 2021
         link: https://www.eyeris.ai/
         quote: >
@@ -129,23 +130,26 @@ content:
       - layout: left
         border: weak 
         title: Koç University, Turkey
-        sub_title: Instructor
-        caption: Feb 2020 - Jun 2020
-       # link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-      - layout: left
-        border: weak 
-        title: Koç University, Turkey
-        sub_title: Teaching and Research Assistant
+        sub_title: Research Assistant
         caption: Feb 2015 - Feb 2020
        # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          During my M.Sc. and Ph.D. careet, I have mainly focused on analyzing medical images using various deep learning and computer vision techniques. I have worked on several
+          projects including localizing anatomical landmarks on human vocal tract in real time MRI sequences, biomedical image segmentation, blind estimation of vocal tract articulatory features from speech 
+          and generating visual face animations synchronized with input speech. 
+      - layout: left
+        border: weak 
+        title: Koç University, Turkey
+        sub_title: Instructor
+        caption: Feb 2020 - Jun 2020
+       # link: Link to company (optional)
+        quote: >
+          Teaching a Python programming language cource.
+        description: | # this will include new lines to allow paragraphs
+          In my academic career, I have gained teaching experience by fulfilling my teaching assistance duties for several undergraduate and graduate courses.
+          As well, I have lectured a course “introductionto programming with Python” to undergraduate students with non engineering backgrounds.
   - title: Education
     layout: list
     content:

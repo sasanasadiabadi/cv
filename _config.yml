@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   I'm passionate about solving real world problems with a strong research background in industry and academy. Having experienced working with people from around the world
   in various teams and under different industry systems.
 
-  My work and research focuses on **spatio-temporal medical image analysis, multimodal signal processing and deep learning on edge**. I'm mostly intrested in optimizing 
+  My work and research focuses on **spatio-temporal medical image analysis,  multimodal signal processing, light-weight neural networks and deep learning on edge**. I'm mostly intrested in optimizing 
   deep neural networks for real-time intelligent data-driven systems. 
 content:
   - title: Projects # Title for the section
@@ -78,8 +78,9 @@ content:
         quote: >
           rtMRI-VTAT is a Python-based GUI and a vocal tract analysis tool for rtMRI datasets.
         description: | # this will include new lines to allow paragraphs
-          My Ph.D research was centered around extracting the shape of the vocal tract in real-time MRI videos and analysing how speech articulators change over time as we utter a sentence.
-          VTAT is a GUI-based vocal tract analysis tool, which aims to help the researchers to track vocal tract contours in MRI videos and study the fundementals of human speech production.  
+          My Ph.D research was centered around localizing anatomical landmarks of the vocal tract in real-time MRI videos and analysing how speech articulators change over time as we utter a sentence.
+          VTAT is a GUI-based vocal tract analysis tool, which aims to help the researchers to track vocal tract contours in MRI videos and study the fundementals of human speech production. VTAT is  
+          based on a **light-weight MobileNet-V3 backbone** and a **UNet architecutre**, which estimates the vocal tract landmarks via heatmap regression.
   - title: Experience
     layout: list
     content:
@@ -115,8 +116,8 @@ content:
           Responsible for development of real-time driver monitoring system.
         description: | # this will include new lines to allow paragraphs
           In my role as a computer vision engineer at CY Vision, I did extensive research on deep learning on edge. I developed efficient light-weight neural networks for tracking driver's facial landmarks and pupils 
-          from a stero-vision camera behind the steering wheel, robust to occlusion and different lighting conditions. I worked on quantizing and deploying the deep learning models
-          on edge devices like ARM CPUs with C++.
+          from a stero-vision camera behind the steering wheel, robust to occlusion and different lighting conditions. I worked on optimizing and deploying the deep learning models
+          on edge devices like low power ARM processors with C++. 
       - layout: left
         border: weak 
         title: Eyris Technologies, California
@@ -124,9 +125,9 @@ content:
         caption: Jan 2020 - Feb 2021
         link: https://www.eyeris.ai/
         quote: >
-          In-cabin driver 3D gaze estimation system using monocular vision.
+          In-cabin driver 3D gaze and pose estimation system using monocular vision.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          At Eyeris I developed a 3D gaze and pose estimation system for tracking driver's behavior.
       - layout: left
         border: weak 
         title: Koç University, Turkey
@@ -136,7 +137,7 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          During my M.Sc. and Ph.D. careet, I have mainly focused on analyzing medical images using various deep learning and computer vision techniques. I have worked on several
+          During my M.Sc. and Ph.D. career, I have mainly focused on analyzing medical images using various deep learning and computer vision techniques. I have worked on several
           projects including localizing anatomical landmarks on human vocal tract in real time MRI sequences, biomedical image segmentation, blind estimation of vocal tract articulatory features from speech 
           and generating visual face animations synchronized with input speech. 
       - layout: left
@@ -180,12 +181,47 @@ content:
         #  Under supervision of Prof. Engin Erzin.
         description: | # this will include new lines to allow paragraphs
           Project title: Voice Activity Detection for Squelch Systems in Noisy Environment.
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Machine Learning  
+        description: | # this will include new lines to allow paragraphs
+          Deep Learning, Supervised Learning, Unsupervised Learning, Representation Learning
+      - layout: left
+        title: Applications  
+        description: | # this will include new lines to allow paragraphs
+          Medical Image Segmentation, Facial Landmark Localization, Object Detection, Facial Animation Synthesis
+      - layout: left
+        title: Software  
+        description: | # this will include new lines to allow paragraphs
+          - Programming Languages: Python, C++
+          -	Deep Learning Frameworks: Pytorch, TensorFlow, Keras 
+          - Inference on Edge: TensorRT, MNN, OpenCV DNN, ONNXRuntime 
+          - Computer Vision: OpenCV (Python, C++), scikit-image
+          -	Data Analytics and Visualization Modules: Numpy, Pandas, Scipy, Scikit-learn, Matplotlib, Seaborn
+          - Versioning tools: Git
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **S. Asadiabadi**, E Erzin, Vocal Tract Contour Tracking in rtMRI Using Deep Temporal Regression Network, IEEE/ACM Transactions on Audio Speech and Language Processing, 2020.
+      - **S. Asadiabadi**, E. Erzin, Automatic Vocal Tract Landmark Tracking In RT-MRI Using Fully Convilutional Networks and Kalman Filter, IEEE Conference on ICASSP, 2020,Barcelona, Spain.
+      - R. Sadiq, **S. Asadiabadi**, E. Erzin, Emotion Dependent Facial Animation from Affective Speech, IEEE Workshop on MMSP, 2020, Tampere, Finland.
+      - M. De Filippo, **S. Asadiabadi**, N. Ko, H. Sun, Concept of a Computer-Vision-Based Algorithm for Detecting Thermal Anomalies in Reinforced Concrete
+      Structures, Multidisciplinary Digital Publishing Institute Proceedings, 2019, Florence, Italy.
+      - **S. Asadiabadi**, E. Erzin, A Deep Learning Approach for Data Driven Vocal Tract Area Function Estimation, IEEE Workshop on Spoken Language Technology, 2018, Athens, Greece.
+      - **S. Asadiabadi**, R. Sadiq, E. Erzin, Multimodal Speech Driven Facial Animation Using Deep Neural Networks, APSIPA ASC, 2018, Honolulu, Hawaii.
+      - **S. Asadiabadi**, E. Erzin, Vocal Tract Airway Tissue Boundary Tracking for rtMRI using Shape and Appearance Priors, In Proceedings of INTERSPEECH, 2017, Stockholm, Sweden.
+
+  
+  - title: Languages
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      English (Fluent), Turkish (Fluent), Persian (Native)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Non-smoker. Interested in sports, hiking, board games and traveling.
 
 # Footer
 footer_show_references: true

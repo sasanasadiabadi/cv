@@ -104,8 +104,9 @@ content:
         quote: >
           Responsible for development of intelligent inspection systems for safer cities.
         description: | # this will include new lines to allow paragraphs
-          At RaSpect, I did research and development of deep learning algorithms centered around the element and defect detection in architecture. I gained a lot of experience
-          with performance analysis, optimization and benchmark evaluation of several deep learning based object detection networks.
+          RaSpect is a drone-based intelligent inspection company and over there I did research and development of deep learning algorithms centered around the  facade element and defect detection.
+          We utilized drones to capture images/videos of facades and  developed deep models to localize the deffective areas in the orthophoto stiched images. Check our patent at 
+          [Systems and methods for artificial intelligence powered inspections and predictive analyses](https://patents.google.com/patent/WO2021224893A1)
       - layout: left
         border: weak 
         title: CY Vision, Turkey

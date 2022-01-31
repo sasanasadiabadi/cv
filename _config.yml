@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   I'm passionate about solving real world problems with a strong research background in industry and academy. Having experienced working with people from around the world
   in various teams and under different industry systems.
 
-  My work and research focuses on **spatio-temporal medical image analysis,  multimodal signal processing, light-weight neural networks and deep learning on edge**. I'm mostly intrested in optimizing 
+  My work and research focuses on **spatio-temporal medical image analysis, multimodal signal processing, light-weight neural networks and deep learning on edge**. I'm mostly intrested in designing and optimizing 
   deep neural networks for real-time intelligent data-driven systems. 
 content:
   - title: Projects # Title for the section
@@ -79,7 +79,7 @@ content:
           rtMRI-VTAT is a Python-based GUI and a vocal tract analysis tool for rtMRI datasets.
         description: | # this will include new lines to allow paragraphs
           My Ph.D research was centered around localizing anatomical landmarks of the vocal tract in real-time MRI videos and analysing how speech articulators change over time as we utter a sentence.
-          VTAT is a GUI-based vocal tract analysis tool, which aims to help the researchers to track vocal tract contours in MRI videos and study the fundementals of human speech production. VTAT is  
+          VTAT is a GUI-based vocal tract analysis tool, which aims to help the researchers to track vocal tract contours in MRI videos and study the fundementals of human speech production. VTAT is 
           based on a **light-weight MobileNet-V3 backbone** and a **UNet architecutre**, which estimates the vocal tract landmarks via heatmap regression.
   - title: Experience
     layout: list
@@ -93,7 +93,7 @@ content:
         quote: >
           Conducting research project  under the [4TU Precision Medicine](https://www.4tu.nl/precision-medicine/).
         description: | # this will include new lines to allow paragraphs
-          I conduct my postdoctoral research as a member of Laboratory of Biophysics ([BIP](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Biophysics.htm)) at WUR.
+          I conduct my postdoctoral research as a member of Laboratory of Biophysics [BIP](https://www.wur.nl/en/Research-Results/Chair-groups/Agrotechnology-and-Food-Sciences/Laboratory-of-Biophysics.htm) at WUR.
           My research mainly focuses on applications of deep learning in analysis of quantitative MRI. I implement neural networks for spatio-temporal modeling of 3D MRI data and unsupervised clustering of biological tissues.
       - layout: left
         border: weak 

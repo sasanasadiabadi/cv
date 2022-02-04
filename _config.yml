@@ -128,7 +128,7 @@ content:
         quote: >
           In-cabin driver 3D gaze and pose estimation system using monocular vision.
         description: | # this will include new lines to allow paragraphs
-          At Eyeris I developed a 3D gaze and pose estimation system for tracking driver's behavior.
+          At Eyeris I developed a real-time 3D gaze and pose estimation system for tracking driver's behavior in the video stream being captured from the central mirror.
       - layout: left
         border: weak 
         title: Koç University, Turkey
@@ -136,7 +136,7 @@ content:
         caption: Feb 2015 - Feb 2020
        # link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          I conducted research in the topic of applications of computer vision and deep learning in medical image analysis.
         description: | # this will include new lines to allow paragraphs
           During my M.Sc. and Ph.D. career, I have mainly focused on analyzing medical images using various deep learning and computer vision techniques. I have worked on several
           projects including localizing anatomical landmarks on human vocal tract in real time MRI sequences, biomedical image segmentation, blind estimation of vocal tract articulatory features from speech 
@@ -178,8 +178,8 @@ content:
         title: Sharif University of Technology, Iran
         sub_title: B.Sc. in Electrical Engineering
         caption: Sep 2009 - Dec 2014
-        #quote: >
-        #  Under supervision of Prof. Engin Erzin.
+        quote: >
+          Under supervision of Dr. Gholampour.
         description: | # this will include new lines to allow paragraphs
           Project title: Voice Activity Detection for Squelch Systems in Noisy Environment.
   - title: Skills # Title for the section
@@ -190,7 +190,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Deep Learning, Supervised Learning, Unsupervised Learning, Representation Learning
       - layout: left
-        title: Applications  
+        title: Expertise  
         description: | # this will include new lines to allow paragraphs
           Medical Image Segmentation, Facial Landmark Localization, Object Detection, Facial Animation Synthesis
       - layout: left

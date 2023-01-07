@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Sasan Asadiabadi, Ph.D.
-title: Postdoctoral Researcher 
+title: AI Research Engineer 
 email: sabadi15@ku.edu.tr
 # email_title: Email (Email title override)
 #phone: +31 625598532
@@ -52,7 +52,7 @@ google_analytics: "UA-00000000-0"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a computer vision and deep learning enginner enthusiastic about vastly growing industrial applications of AI. 
+  I am a computer vision and deep learning enginner, enthusiastic about vastly growing industrial applications of AI. 
   I'm passionate about solving real world problems with a strong research background in industry and academy. Having experienced working with people from around the world
   in various teams and under different industry systems.
 

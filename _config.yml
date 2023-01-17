@@ -26,7 +26,7 @@ github_username:  sasanasadiabadi
 #facebook_username: jekyll
 #flickr_username: jekyll
 instagram_username: sasaan.asadi
-linkedin_username: sasan-asadiabadi-1211678a
+linkedin_username: sasan-asadiabadi-phd-1211678a
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -52,7 +52,7 @@ google_analytics: "UA-00000000-0"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a computer vision and deep learning enginner, enthusiastic about vastly growing industrial applications of AI. 
+  I am a computer vision and deep learning engineer, enthusiastic about vastly growing industrial applications of AI. 
   I'm passionate about solving real world problems with a strong research background in industry and academy. Having experienced working with people from around the world
   in various teams and under different industry systems.
 

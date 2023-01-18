@@ -93,7 +93,8 @@ content:
         quote: >
           Smart AI for early breast cancer detection and diagnosis.
         description: | # this will include new lines to allow paragraphs
-          Research and development of Transpara, an AI based system for early detection of breast cancer in 2D and 3D mammograms, aimed at improving performance to the level of expert radiologists and beyond.
+          In my role as a AI engineer, I conducted extensive research around design, training, optimization, evaluation and deployment of deep learning algorithms 
+          for detection of breast cancer in 2D and 3D mammograms, aimed at improving performance to the level of expert radiologists and beyond.
       - layout: left
         border: weak 
         title: Wageningen University & Research, The Netherlands

@@ -93,7 +93,7 @@ content:
         quote: >
           Smart AI for early breast cancer detection and diagnosis.
         description: | # this will include new lines to allow paragraphs
-          In my role as a AI engineer, I conducted extensive research around design, training, optimization, evaluation and deployment of deep learning algorithms 
+          In my role as an AI engineer, I conducted extensive research around design, training, optimization, evaluation and deployment of deep learning algorithms 
           for detection of breast cancer in 2D and 3D mammograms, aimed at improving performance to the level of expert radiologists and beyond.
       - layout: left
         border: weak 
@@ -209,10 +209,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Programming Languages: Python, C++
           -	Deep Learning Frameworks: Pytorch, TensorFlow, Keras 
-          - Inference on Edge: TensorRT, MNN, OpenCV DNN, ONNXRuntime 
+          - Inference on Edge: LibTorch,TensorRT, MNN, OpenCV DNN, ONNXRuntime 
           - Computer Vision: OpenCV (Python, C++), Scikit-image
-          -	Data Analytics and Visualization Modules: Numpy, Pandas, Scipy, Scikit-learn, Matplotlib, Seaborn
+          -	Data Analytics and Visualization Modules: Numpy, Pandas, Scipy, Scikit-learn, Matplotlib, Seaborn, Voxel51
           - Versioning tools: Git
+          - Agile project management: ZOHO Projects, Jira
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
